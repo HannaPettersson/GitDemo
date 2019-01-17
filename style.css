@@ -1,0 +1,28 @@
+h1 {
+  color: pink;
+}
+
+p {
+  color: #ef7409;
+  font-size: 150px;
+  font-family: Arial;
+}
+
+img {
+  width: 30%;
+}
+
+.menu {
+  background-color: grey;
+  padding: 30px;
+  margin: 30px;
+  border: 1px dotted black;
+}
+
+.bigdog {
+  width: 300px;
+}
+
+.smalldog {
+  width: 20px;
+}

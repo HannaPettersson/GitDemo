@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.hello {
+  width: 400px;
+  padding: 100px;
+  background: green;
+}
